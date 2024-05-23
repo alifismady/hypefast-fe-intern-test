@@ -1,4 +1,3 @@
-// src/context/TodoContext.js
 import React, { createContext, useState, useContext } from 'react';
 
 const TodoContext = createContext();
